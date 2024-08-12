@@ -1,0 +1,11 @@
+.app {
+    text-align: center;
+    padding: 20px;
+}
+  
+.lista-produtos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  
